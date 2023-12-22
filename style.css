@@ -37,3 +37,76 @@
   grid-column-start: 1;
   grid-column-end: 4;
 } */
+
+/* GRID CONTAINER */
+
+/* grid template rows */
+/* .grid-container {
+  display: grid;
+  grid-template-columns: 80px 200px auto 40px;
+  gap: 10px;
+  background-color: dodgerblue;
+  padding: 10px;
+}
+
+.grid-container > div {
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+} */
+
+/* grid template rows */
+
+/* .grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 80px 200px;
+  gap: 10px;
+  background-color: dodgerblue;
+  padding: 10px;
+}
+
+.grid-container > div {
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+} */
+
+/* justify content */
+
+/* .grid-container {
+  display: grid;
+  justify-content: space-between;
+  grid-template-columns: 50px 50px 50px;
+  gap: 10px;
+  background-color: dodgerblue;
+  padding: 10px;
+}
+
+.grid-container > div {
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+} */
+
+/* align content */
+
+/* .grid-container {
+  display: grid;
+  height: 400px;
+  align-content: center;
+  grid-template-columns: auto auto auto;
+  gap: 10px;
+  background-color: dodgerblue;
+  padding: 10px;
+}
+
+.grid-container > div {
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+} */
